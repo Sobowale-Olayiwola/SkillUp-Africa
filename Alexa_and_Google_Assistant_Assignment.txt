@@ -33,4 +33,3 @@ The possible types of interconnections possible are LAN(Local Area Network) this
 connection with home Wi-Fi or home wireless devices. Also, PAN(Personal Area Network) is possible via
 connection with bluetooth device.
 
-This is not included before.
