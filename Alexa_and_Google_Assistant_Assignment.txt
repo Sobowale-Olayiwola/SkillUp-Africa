@@ -1,0 +1,34 @@
+(1) Do a comparison between Amazon Echo and Google.
+
+Amazon echo and Google home aren't just speakers, they are platforms. While their physical hardware
+doesn't get updated very often, the services that power them are Alexa and Google Assistant which
+are in constant state of change.
+
+* A smart speaker is generally a gateway to a voice assistant ecosystem.
+
+* Choosing either Echo or a google Home, you're choosing a side whether to voice-enable your home
+with Alexa or Google Assistant.
+					Alexa Vs Google Assistant
+
+		Alexa					Google Assistant
+Alexa supports multiple wake words       *  Google uses "Hey Google"
+for instance "Alexa","Amazon", "Echo".	 *  It doesn't work like a standard bluetooth speaker.
+
+Alexa is more configurable if you're     *
+willing to stick to its specific syntax. *  It is easier to use, less frustrating and more fluid.
+
+By learning and  memorizing Alexa's phr- *  Hollering different combinations of words at google
+ases can make one dig down to find more     assistant is more likely to result in a useful response.
+obscure information sources and more     *
+skills with big third party brands.
+
+(2) Explain how we can use either Amazon Echo or Google Home in our homes. State what kind of inter-
+connection is possible with those devices.
+
+It can be used in respect with IoT (Internet of Things) for security purposes.
+It can also be used for leisure during indoor or outdoor events.
+It can also be used as a security detection device.
+
+The possible types of interconnections possible are LAN(Local Area Network) this would occur through
+connection with home Wi-Fi or home wireless devices. Also, PAN(Personal Area Network) is possible via
+connection with bluetooth device.
